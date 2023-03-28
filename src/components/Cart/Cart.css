@@ -1,0 +1,16 @@
+.cart {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 25px;
+}
+.cart-title {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.cart p {
+    font-size: 17px;
+}
+.grand-total {
+    font-size: 21px;
+    margin-bottom: 50px;
+}
