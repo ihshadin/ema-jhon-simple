@@ -1,0 +1,16 @@
+.orders-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+.orders-container .products-container {
+    /* padding: 50px 0; */
+    margin-right: 10px;
+}
+.orders-container .cart-container {
+    padding: 25px;
+    background-color: #FF99004D;
+    margin-left: 10px;
+}

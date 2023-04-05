@@ -6,9 +6,12 @@
 .cart-title {
     font-size: 25px;
     margin-bottom: 50px;
+    font-weight: 800;
 }
 .cart p {
     font-size: 17px;
+    margin-bottom: 10px;
+    font-weight: 600;
 }
 .grand-total {
     font-size: 21px;
